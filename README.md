@@ -1,7 +1,7 @@
 # Anamoly-Detection
 BTech Thesis project on Anamoly Detection, 
 
-##Algorithms Used
+## Algorithms Used
 
 1. Isolation Forest.
 2. Local Outlier 
